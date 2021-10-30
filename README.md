@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+![image](https://user-images.githubusercontent.com/53329654/139537948-12fb0630-0148-481c-ab05-de5671f39d8d.png)
+
+-Use Email Address to login
